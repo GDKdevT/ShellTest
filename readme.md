@@ -1,6 +1,6 @@
 Scripts:
 
-ex1-2-3ss.sh = Impressão de mensagens direto por comando, chamando variável e usand variável de ambiente.
+ex1-2-3ss.sh = Impressão de mensagens direto por comando, chamando variável e usandO variável de ambiente.
 
 filepath4.sh = Verifica se o caminho até o arquivo existe e se o usuário tem permissão para editar o mesmo.
 
