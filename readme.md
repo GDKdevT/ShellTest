@@ -6,7 +6,7 @@ filepath4.sh = Verifica se o caminho até o arquivo existe e se o usuário tem p
 
 ex5ss.sh = Impressão de array pré-definido.
 
-ver6.sh = Verifica se o item é um arquivo,diretório ou outro atráves de uma entrada pelo usuário. Após a verificação faz uma listagem detalhada do item.
+ver6.sh = Verifica se o item é um arquivo, diretório ou outro atráves de uma entrada pelo usuário. Após a verificação faz uma listagem detalhada do item.
 
 ver7.sh = Mesma ação do anterior mas a entrada é feita como um argumento.
 
