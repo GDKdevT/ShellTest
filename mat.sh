@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Eu sou Tryber e...
 read -p "Digite um numero: " num1
 
 read -p "Digite o segundo numero: " num2
