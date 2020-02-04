@@ -1,5 +1,7 @@
 #!/bin/bash
+
 # Vou ter muito sucesso na programação"
+
 read -p "Digite um numero: " num1
 
 read -p "Digite o segundo numero: " num2
